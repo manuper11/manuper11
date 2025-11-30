@@ -1,10 +1,10 @@
-## Hi There! I'm Emanuel Perez
+# Hi There! I'm Emanuel Perez
 
 🌱 Currently studying Software Engineering at University of Buenos Aires (FIUBA)
 
 🚀 Looking for job opportunities and new projects
 
-💻 Currently at %35 of the career
+💻 Currently at 50% of the career
 
 🌎 How to reach me: manu.perez.11.01@gmail.com
 
